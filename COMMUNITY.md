@@ -19,10 +19,10 @@ We do our best to respond to each submission.
 
 We regularly have Community Office Hours that are open to the **public** to join. 
 
-Add Power Platform Developer Tools events to your calendar: download the [calendar.ics](https://aka.ms/sk-community-calendar) file.
+Add Power Platform Developer Tools events to your calendar: download the [calendar.ics](docs\PPDeveloperTools-OfficeHours.ics) file.
 
 To keep topics organized, please submit what you'd like us to cover here:
-[https://forms.microsoft.com/r/U3tiFUZcVt](https://forms.microsoft.com/r/U3tiFUZcVt)
+[https://aka.ms/ProDevOfficeHours](https://aka.ms/ProDevOfficeHours)
 
 If you are unable to make it live, all meetings will be recorded and posted online.
 
@@ -36,4 +36,4 @@ Each tasks wraps the existing [Power Platform CLI](https://aka.ms/PowerPlatformC
 
 ## High level architecture
 
-![High level architecture](Architecture.png)
+![High level architecture](docs\Architecture.png)
