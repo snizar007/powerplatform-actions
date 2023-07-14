@@ -1,0 +1,8 @@
+Samples: 
+Power Platform Actions : https://github.com/microsoft/powerplatform-actions/tree/main
+Dataverse Samples : https://github.com/petrochuk/DataverseSamples
+Power Platform Build Tools : https://github.com/microsoft/powerplatform-build-tools
+Power Platform VS Code : https://github.com/microsoft/powerplatform-vscode
+Power Platform Actions Lab : https://github.com/microsoft/powerplatform-actions-lab/tree/main
+Power Platform Connectors : https://github.com/microsoft/PowerPlatformConnectors/
+Power Platform Custom Connectors : https://learn.microsoft.com/en-us/connectors/custom-connectors/
