@@ -6,3 +6,4 @@ Power Platform VS Code : https://github.com/microsoft/powerplatform-vscode
 Power Platform Actions Lab : https://github.com/microsoft/powerplatform-actions-lab/tree/main
 Power Platform Connectors : https://github.com/microsoft/PowerPlatformConnectors/
 Power Platform Custom Connectors : https://learn.microsoft.com/en-us/connectors/custom-connectors/
+Microsoft Build 2023 Power Platform Workshop : https://github.com/snizar007/BuildLab2023
