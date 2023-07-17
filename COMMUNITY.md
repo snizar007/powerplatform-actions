@@ -19,7 +19,7 @@ We do our best to respond to each submission.
 
 We regularly have Community Office Hours that are open to the **public** to join. 
 
-Add Power Platform Developer Tools events to your calendar: download the [calendar.ics](docs/PPDeveloperTools-OfficeHours.ics) file.
+Add Power Platform Developer Tools events to your calendar: [calender.ics](PPDeveloperTools-OfficeHours.ics) (_Right-click -> Save-as_).
 
 To keep topics organized, please submit what you'd like us to cover here:
 [https://aka.ms/ProDevOfficeHours](https://aka.ms/ProDevOfficeHours)
