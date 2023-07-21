@@ -9,6 +9,8 @@ and the ability to perform static analysis checks against your solution using th
 
 Below are some ways that you can get involved in the MPPDT Community.
 
+**Citizen developers and Professional developers, all are welcome. Come, contribute, and learn more about Power Platform Developer Tools.**
+
 ## Engage on Github
 
 File issues, submit PRs, and provide feedback and ideas to what you'd like to see from the Power Platform Developer Tools.
